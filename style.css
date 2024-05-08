@@ -1,0 +1,92 @@
+body{
+    font-optical-sizing: auto;
+    font-family: "Nunito", sans-serif;
+}
+header{
+    display: flex;
+    font-family: sans-serif;
+    padding: 20px;
+    cursor: pointer;
+    color: #6b6b70;
+}
+#p{
+    border-radius: 20px;
+    color: white;
+    font-family: sans-serif;
+    height: 100px;
+    width: 85%;
+    background-color: rgb(255, 89, 60);
+    display: flex;
+    margin: 10px auto;
+}
+header div{
+    margin-left: 70px;
+}
+#btn{
+    margin-top: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    background-color: #fff;
+    width: 150px;
+    color:rgb(9, 9, 86) ;
+    height: 45px;
+    border: 2px solid rgb(9, 9, 86);
+    text-align:center;
+    text-align: center;
+    margin-top: 20px;
+    box-shadow: 0px 7px  rgb(9, 9, 86);
+    margin-left: 100px;
+}
+#haf{
+    text align: center;
+    margin-top:40px;
+    margin-left:40px;
+}
+#bold{
+    color: rgb(7, 7, 77);
+    font-weight: bold;
+}
+h1{
+    color:  rgb(14, 14, 94);
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+#h22{
+color: rgb(228, 171, 27);
+}
+#button{
+    margin-left: 400px;  
+    font-weight: bold;
+}
+#button{
+    font-size: large;
+    margin-left: 500px;
+    font-weight: bold;
+}
+#paragraf{
+    text-align: center;
+    font-size: large;
+}
+#button button{
+    width: 200px;
+    height: 55px;
+    margin-top: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    color:rgb(6, 6, 85) ;
+    border: 2px solid rgb(5, 5, 87);
+    box-shadow: 0px 7px  rgb(6, 6, 87);
+  
+}
+
+
+
+
+
+
+
+
+
+
+
